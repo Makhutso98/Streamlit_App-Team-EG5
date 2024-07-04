@@ -1,6 +1,6 @@
 # Streamlit-based News Classification App-Team-EG5
 <p align="center">
-  <img src="https://github.com/Khululiwe/Streamlit_App-Team-EG5/blob/main/logo.png" alt="Logo" width="200"/>
+  <img src="https://github.com/Khululiwe/Streamlit_App-Team-EG5/blob/main/logo.png" alt="Logo" width="400"/>
 </p>
 
 ## Overview
