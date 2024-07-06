@@ -66,7 +66,6 @@ def resize_image(image_path, size=(300, 300)):
 model_files = {
     'Logistic Regression': 'logistic_regression_model.pkl',
     'Decision Tree': 'decision_tree_model.pkl',
-    'Random Forest': 'random_forest_model.pkl',
     'Gradient Boosting': 'gradient_boosting_model.pkl',
     'Support Vector Machine': 'support_vector_machine_model.pkl'
 }
@@ -208,13 +207,6 @@ elif option == 'Our Models':
             "description": """
             Decision Tree is a non-linear model that splits the data into subsets based on the feature values, making it easy to understand
             and interpret. We chose Decision Tree for its ability to handle non-linear relationships and its interpretability.
-            """
-        },
-        {
-            "title": "Random Forest",
-            "description": """
-            Random Forest is an ensemble model that combines multiple decision trees to improve performance and reduce overfitting. 
-            We chose Random Forest for its robustness and high accuracy, especially when dealing with complex datasets.
             """
         },
         {
